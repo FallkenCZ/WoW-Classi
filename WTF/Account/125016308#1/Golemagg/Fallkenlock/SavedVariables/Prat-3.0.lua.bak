@@ -1,0 +1,2125 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1590419027,
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 32,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:48]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km75|k:109:481:BN_INLINE_TOAST_ALERT:0|h[|Km75|k]|h has gone offline.",
+					["serverTime"] = 1592936027,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						1, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240123.167,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:48]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km75|k:109:482:BN_INLINE_TOAST_ALERT:0|h[|Km75|k]|h has gone offline.",
+					["serverTime"] = 1592936027,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						1, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240123.167,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:48]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km75|k:109:483:BN_INLINE_TOAST_ALERT:0|h[|Km75|k]|h has gone offline.",
+					["serverTime"] = 1592936027,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						1, -- [3]
+						74, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240123.167,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:50]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592936029,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240124.961,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:57]|h|r You loot 4 Copper",
+					["serverTime"] = 1592936036,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240131.637,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:24]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592936063,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240158.866,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:26]|h|r You receive loot: |cff9d9d9d|Hitem:3169::::::::13:::::::|h[Chipped Bear Tooth]|h|r.",
+					["serverTime"] = 1592936065,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240161.275,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:56]|h|r Your skill in Swords has increased to 6.",
+					["serverTime"] = 1592936095,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240190.814,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:14:58]|h|r Your skill in Swords has increased to 7.",
+					["serverTime"] = 1592936097,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240193.262,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:00]|h|r You receive loot: |cffffffff|Hitem:3253::::::::13:::::::|h[Grizzled Bear Heart]|h|r.",
+					["serverTime"] = 1592936099,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240195.187,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:01]|h|r You receive loot: |cff9d9d9d|Hitem:3169::::::::13:::::::|h[Chipped Bear Tooth]|h|r.",
+					["serverTime"] = 1592936100,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240195.589,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r Your skill in Swords has increased to 8.",
+					["serverTime"] = 1592936114,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240210.135,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:15]|h|r Your skill in Defense has increased to 57.",
+					["serverTime"] = 1592936114,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240210.135,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:15:19]|h|r You loot 11 Copper",
+					["serverTime"] = 1592936118,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240213.649,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:14]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592936173,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240268.735,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:18]|h|r You receive loot: |cffffffff|Hitem:3173::::::::13:::::::|h[Bear Meat]|h|r.",
+					["serverTime"] = 1592936177,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240273.073,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:19]|h|r You receive loot: |cff9d9d9d|Hitem:3170::::::::13:::::::|h[Large Bear Tooth]|h|r.",
+					["serverTime"] = 1592936178,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240273.482,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:44]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km108|k:4:503:BN_INLINE_TOAST_ALERT:0|h[|Km108|k] (|TInterface\\ChatFrame\\UI-ChatIcon-WOW:14:14:0:0|tZeggii)|h has come online.",
+					["serverTime"] = 1592936203,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240298.371,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:49]|h|r Your skill in Swords has increased to 9.",
+					["serverTime"] = 1592936208,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240303.374,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:51]|h|r Your skill in Swords has increased to 10.",
+					["serverTime"] = 1592936210,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240305.859,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:53]|h|r Your skill in Swords has increased to 11.",
+					["serverTime"] = 1592936212,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240307.871,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:55]|h|r Your skill in Swords has increased to 12.",
+					["serverTime"] = 1592936214,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240309.864,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:16:56]|h|r You receive loot: |cffffffff|Hitem:3173::::::::13:::::::|h[Bear Meat]|h|r.",
+					["serverTime"] = 1592936215,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240311.019,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:24]|h|r Your skill in Swords has increased to 13.",
+					["serverTime"] = 1592936243,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240338.614,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:26]|h|r You receive loot: |cffffffff|Hitem:2672::::::::13:::::::|h[Stringy Wolf Meat]|h|r.",
+					["serverTime"] = 1592936245,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240340.931,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:33]|h|r Discovered The Dead Field: 90 experience gained",
+					["serverTime"] = 1592936252,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240347.843,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:51]|h|r Your skill in Swords has increased to 14.",
+					["serverTime"] = 1592936270,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240365.576,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:17:59]|h|r Your skill in Swords has increased to 15.",
+					["serverTime"] = 1592936278,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240373.67,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:01]|h|r Your skill in Swords has increased to 16.",
+					["serverTime"] = 1592936280,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240375.714,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:04]|h|r You receive loot: |cffffffff|Hitem:2589::::::::13:::::::|h[Linen Cloth]|h|rx3.",
+					["serverTime"] = 1592936283,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240378.86,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:05]|h|r You loot 16 Copper",
+					["serverTime"] = 1592936284,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240379.868,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:18:07]|h|r You loot 19 Copper",
+					["serverTime"] = 1592936286,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240381.51,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:02:28]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km108|k:4:374:BN_INLINE_TOAST_ALERT:0|h[|Km108|k] (|TInterface\\ChatFrame\\UI-ChatIcon-WOW:14:14:0:0|tElcucuy)|h has come online.",
+					["serverTime"] = 1592935347,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239443.037,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:02:58]|h|r Your skill in Swords has increased to 2.",
+					["serverTime"] = 1592935377,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239473.321,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:01]|h|r Your skill in Swords has increased to 3.",
+					["serverTime"] = 1592935380,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239475.753,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:04]|h|r You receive loot: |cffffffff|Hitem:2672::::::::12:::::::|h[Stringy Wolf Meat]|h|r.",
+					["serverTime"] = 1592935383,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239479.292,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:05]|h|r You receive loot: |cff9d9d9d|Hitem:3299::::::::12:::::::|h[Fractured Canine]|h|r.",
+					["serverTime"] = 1592935384,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239479.697,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:16]|h|r Discovered The Ivar Patch: 90 experience gained",
+					["serverTime"] = 1592935395,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239490.717,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:17]|h|r Deathstalker Erland says: We're almost there!",
+					["serverTime"] = 1592935396,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239492.009,
+					["g"] = 1,
+					["b"] = 0.623529434204102,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:21]|h|r Deathstalker Erland says: Beware!  A Ravenclaw Slave is upon us!",
+					["serverTime"] = 1592935400,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239496.05,
+					["g"] = 1,
+					["b"] = 0.623529434204102,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:34]|h|r You create: |cffffffff|Hitem:6265::::::::12:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935413,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239508.434,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:36]|h|r Deathstalker Erland says: We made it!  Thanks, Fallkenlock.  I couldn't have gotten here without you.",
+					["serverTime"] = 1592935415,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239511.193,
+					["g"] = 1,
+					["b"] = 0.623529434204102,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:36]|h|r You receive loot: |cffffffff|Hitem:6509::::::::12:::::::|h[Infantry Belt]|h|r.",
+					["serverTime"] = 1592935415,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239511.193,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:36]|h|r You receive loot: |cffffffff|Hitem:4605::::::::12:::::::|h[Red-speckled Mushroom]|h|r.",
+					["serverTime"] = 1592935415,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239511.193,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:37]|h|r Your Undercity reputation has increased by 100.",
+					["serverTime"] = 1592935416,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239512.088,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:37]|h|r Escorting Erland completed.",
+					["serverTime"] = 1592935416,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239512.097,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:37]|h|r Experience gained: 875.",
+					["serverTime"] = 1592935416,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239512.097,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:38]|h|r You receive item: |cffffffff|Hitem:3455::::::::12:::11::::|h[Deathstalker Shortsword]|h|r.",
+					["serverTime"] = 1592935417,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239512.486,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:38]|h|r You loot 15 Copper",
+					["serverTime"] = 1592935417,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239512.683,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:38]|h|r Quest accepted: The Deathstalkers' Report",
+					["serverTime"] = 1592935417,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239512.838,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:38]|h|r You receive item: |cffffffff|Hitem:3252::::::::12:::::::|h[Deathstalker Report]|h|r.",
+					["serverTime"] = 1592935417,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239512.838,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:39]|h|r Quest accepted: Wild Hearts",
+					["serverTime"] = 1592935418,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239514.116,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:41]|h|r Rane Yorick says: It's good to see you again, Erland.  What is your report?",
+					["serverTime"] = 1592935420,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239515.839,
+					["g"] = 1,
+					["b"] = 0.623529434204102,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:45]|h|r Deathstalker Erland says: Masses of wolves are to the east, and whoever lived at Malden's Orchard is gone.",
+					["serverTime"] = 1592935424,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239519.861,
+					["g"] = 1,
+					["b"] = 0.623529434204102,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:03:50]|h|r Deathstalker Erland says: If I am excused, then I'd like to check on Quinn...",
+					["serverTime"] = 1592935429,
+					["r"] = 1,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						70, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239524.686,
+					["g"] = 1,
+					["b"] = 0.623529434204102,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:15]|h|r Your skill in Swords has increased to 4.",
+					["serverTime"] = 1592935454,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239550.032,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:19]|h|r You create: |cffffffff|Hitem:6265::::::::12:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935458,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239554.068,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r Congratulations, you have reached level 13!",
+					["serverTime"] = 1592935482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 239577.798,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r You have gained 15 hit points and 34 mana.",
+					["serverTime"] = 1592935482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 239577.798,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r You have gained 1 talent point.",
+					["serverTime"] = 1592935482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 239577.798,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r Your Strength increases by 1.",
+					["serverTime"] = 1592935482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 239577.798,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r Your Intellect increases by 1.",
+					["serverTime"] = 1592935482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 239577.798,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r Your Spirit increases by 2.",
+					["serverTime"] = 1592935482,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 239577.798,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r Your skill in Demonology has increased to 65.",
+					["serverTime"] = 1592935482,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239578.309,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r Your skill in Affliction has increased to 65.",
+					["serverTime"] = 1592935482,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239578.309,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:43]|h|r Your skill in Destruction has increased to 65.",
+					["serverTime"] = 1592935482,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239578.309,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:44]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935483,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239578.309,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:45]|h|r You receive loot: |cffffffff|Hitem:3164::::::::13:::::::|h[Discolored Worg Heart]|h|r.",
+					["serverTime"] = 1592935484,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239580.224,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:04:46]|h|r You receive loot: |cff9d9d9d|Hitem:3299::::::::13:::::::|h[Fractured Canine]|h|r.",
+					["serverTime"] = 1592935485,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239580.618,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:05:07]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935506,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239601.644,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:05:09]|h|r You receive loot: |cff9d9d9d|Hitem:3299::::::::13:::::::|h[Fractured Canine]|h|r.",
+					["serverTime"] = 1592935508,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239603.625,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:05:40]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935539,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239634.777,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:05:44]|h|r You receive loot: |cffffffff|Hitem:3164::::::::13:::::::|h[Discolored Worg Heart]|h|r.",
+					["serverTime"] = 1592935543,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239639.127,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:05:46]|h|r Discovered The Shining Strand: 100 experience gained",
+					["serverTime"] = 1592935545,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239641.177,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:06:15]|h|r You receive loot: |cffffffff|Hitem:3164::::::::13:::::::|h[Discolored Worg Heart]|h|r.",
+					["serverTime"] = 1592935574,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239669.815,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:06:15]|h|r You receive loot: |cffffffff|Hitem:2672::::::::13:::::::|h[Stringy Wolf Meat]|h|r.",
+					["serverTime"] = 1592935574,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239669.815,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:06:41]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935600,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239696.129,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:06:46]|h|r You receive loot: |cffffffff|Hitem:3164::::::::13:::::::|h[Discolored Worg Heart]|h|r.",
+					["serverTime"] = 1592935605,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239701.294,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:06:47]|h|r You receive loot: |cffffffff|Hitem:2672::::::::13:::::::|h[Stringy Wolf Meat]|h|r.",
+					["serverTime"] = 1592935606,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239701.687,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:07:14]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km108|k:4:424:BN_INLINE_TOAST_ALERT:0|h[|Km108|k]|h has gone offline.",
+					["serverTime"] = 1592935633,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239728.677,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:08:52]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935731,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239826.95,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:08:55]|h|r You receive loot: |cffffffff|Hitem:1179::::::::13:::::::|h[Ice Cold Milk]|h|r.",
+					["serverTime"] = 1592935734,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239830.145,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:08:57]|h|r You loot 16 Copper",
+					["serverTime"] = 1592935736,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239831.591,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:17]|h|r Discovered The Sepulcher: 85 experience gained",
+					["serverTime"] = 1592935756,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239851.55,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:33]|h|r Quest accepted: Prove Your Worth",
+					["serverTime"] = 1592935772,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239868.146,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:36]|h|r Sold junk for 2 Silver, 40 Copper.",
+					["r"] = 1,
+					["serverTime"] = 1592935775,
+					["timestamp"] = 239870.79,
+					["g"] = 0.85,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:41]|h|r You receive item: |cffffffff|Hitem:1179::::::::13:::::::|h[Ice Cold Milk]|h|rx5.",
+					["serverTime"] = 1592935780,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239875.371,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:41]|h|r You receive item: |cffffffff|Hitem:1179::::::::13:::::::|h[Ice Cold Milk]|h|rx5.",
+					["serverTime"] = 1592935780,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239875.371,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:41]|h|r You receive item: |cffffffff|Hitem:1179::::::::13:::::::|h[Ice Cold Milk]|h|rx5.",
+					["serverTime"] = 1592935780,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239875.371,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:41]|h|r You receive item: |cffffffff|Hitem:1179::::::::13:::::::|h[Ice Cold Milk]|h|rx5.",
+					["serverTime"] = 1592935780,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239875.371,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:44]|h|r Quest accepted: Border Crossings",
+					["serverTime"] = 1592935783,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239879.08,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:49]|h|r Quest accepted: Supplying the Sepulcher",
+					["serverTime"] = 1592935788,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239884.331,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:49]|h|r You receive item: |cffffffff|Hitem:16209::::::::13:::::::|h[Podrig's Order]|h|r.",
+					["serverTime"] = 1592935788,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239884.331,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:58]|h|r Your Undercity reputation has increased by 75.",
+					["serverTime"] = 1592935797,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239892.794,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:58]|h|r Delivery to Silverpine Forest completed.",
+					["serverTime"] = 1592935797,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239892.794,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:58]|h|r Experience gained: 625.",
+					["serverTime"] = 1592935797,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239892.794,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:58]|h|r Received 2 Silver, 50 Copper.",
+					["serverTime"] = 1592935797,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239892.794,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r Your Undercity reputation has increased by 50.",
+					["serverTime"] = 1592935798,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239893.608,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r Wild Hearts completed.",
+					["serverTime"] = 1592935798,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239893.653,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r Experience gained: 440.",
+					["serverTime"] = 1592935798,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239893.653,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r You receive item: |cff1eff00|Hitem:4597::::::::13:::11::::|h[Recipe: Discolored Healing Potion]|h|r.",
+					["serverTime"] = 1592935798,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239894.017,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r You receive item: |cffffffff|Hitem:4596::::::::13:::::::|h[Discolored Healing Potion]|h|r.",
+					["serverTime"] = 1592935798,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239894.017,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r Apothecary Renferrel concocts a potion for Fallkenlock.",
+					["serverTime"] = 1592935798,
+					["r"] = 1,
+					["extraData"] = {
+						17, -- [1]
+						false, -- [2]
+						72, -- [3]
+						73, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239894.127,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r Quest accepted: Return to Quinn",
+					["serverTime"] = 1592935798,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239894.323,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:09:59]|h|r You receive item: |cffffffff|Hitem:3165::::::::13:::::::|h[Quinn's Potion]|h|r.",
+					["serverTime"] = 1592935798,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239894.323,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:01]|h|r Quest accepted: A Recipe For Death",
+					["serverTime"] = 1592935800,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239895.635,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:26]|h|r The Deathstalkers' Report completed.",
+					["serverTime"] = 1592935825,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239921.025,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:26]|h|r Experience gained: 440.",
+					["serverTime"] = 1592935825,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239921.025,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:26]|h|r Received 2 Silver.",
+					["serverTime"] = 1592935825,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239921.025,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:26]|h|r Your Undercity reputation has increased by 50.",
+					["serverTime"] = 1592935825,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239921.038,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:27]|h|r Quest accepted: Speak with Renferrel",
+					["serverTime"] = 1592935826,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239921.853,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:29]|h|r Quest accepted: The Dead Fields",
+					["serverTime"] = 1592935828,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239923.889,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:37]|h|r You receive item: |cffffffff|Hitem:2320::::::::13:::::::|h[Coarse Thread]|h|r.",
+					["serverTime"] = 1592935836,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239932.288,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:56]|h|r Speak with Renferrel completed.",
+					["serverTime"] = 1592935855,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239951.289,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:56]|h|r Experience gained: 90.",
+					["serverTime"] = 1592935855,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239951.289,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:56]|h|r Your Undercity reputation has increased by 10.",
+					["serverTime"] = 1592935855,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239951.305,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:57]|h|r Quest accepted: Zinge's Delivery",
+					["serverTime"] = 1592935856,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239952.093,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:10:57]|h|r You receive item: |cffffffff|Hitem:10283::::::::13:::::::|h[Wolf Heart Samples]|h|r.",
+					["serverTime"] = 1592935856,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239952.093,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:11:44]|h|r Supplying the Sepulcher completed.",
+					["serverTime"] = 1592935903,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239999.32,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:11:44]|h|r Experience gained: 210.",
+					["serverTime"] = 1592935903,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239999.32,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:11:44]|h|r Your Undercity reputation has increased by 25.",
+					["serverTime"] = 1592935903,
+					["r"] = 0.501960813999176,
+					["extraData"] = {
+						36, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 239999.33,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:11:45]|h|r Quest accepted: Ride to the Undercity",
+					["serverTime"] = 1592935904,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						3, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240000.127,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:11:45]|h|r You receive item: |cffffffff|Hitem:16209::::::::13:::::::|h[Podrig's Order]|h|r.",
+					["serverTime"] = 1592935904,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240000.127,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:12:41]|h|r You receive loot: |cffffffff|Hitem:3173::::::::13:::::::|h[Bear Meat]|h|r.",
+					["serverTime"] = 1592935960,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240056.199,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:02]|h|r You create: |cffffffff|Hitem:6265::::::::13:::::::|h[Soul Shard]|h|r.",
+					["serverTime"] = 1592935981,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240077.256,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:09]|h|r You loot 8 Copper",
+					["serverTime"] = 1592935988,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240083.899,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:25]|h|r Your skill in Swords has increased to 5.",
+					["serverTime"] = 1592936004,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						12, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240100.293,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[20:13:30]|h|r You loot 2 Copper",
+					["serverTime"] = 1592936009,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 240104.993,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

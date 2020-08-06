@@ -1,0 +1,56 @@
+
+OmniCCDB = {
+	["global"] = {
+		["addonVersion"] = "8.3.5",
+		["dbVersion"] = 5,
+	},
+	["profileKeys"] = {
+		["Fallkensham - Golemagg"] = "Default",
+		["Fallkenwarr - Golemagg"] = "Default",
+		["Fallken - Golemagg"] = "Default",
+		["Fallkenhunt - Golemagg"] = "Default",
+		["Fallkenmage - Golemagg"] = "Default",
+		["Fallkenlock - Golemagg"] = "Default",
+		["Fallkenpray - Golemagg"] = "Default",
+		["Fallkenrogue - Golemagg"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["themes"] = {
+				["Default"] = {
+					["textStyles"] = {
+						["minutes"] = {
+						},
+						["seconds"] = {
+						},
+						["soon"] = {
+						},
+					},
+				},
+				["Plater Nameplates Theme"] = {
+					["textStyles"] = {
+						["minutes"] = {
+						},
+						["soon"] = {
+						},
+						["seconds"] = {
+						},
+					},
+				},
+			},
+			["rules"] = {
+				{
+					["id"] = "Plater Nameplates Rule",
+					["patterns"] = {
+						"PlaterMainAuraIcon", -- [1]
+						"PlaterSecondaryAuraIcon", -- [2]
+						"ExtraIconRowIcon", -- [3]
+					},
+					["theme"] = "Plater Nameplates Theme",
+					["priority"] = 1,
+				}, -- [1]
+			},
+		},
+	},
+}
+OmniCC4Config = nil

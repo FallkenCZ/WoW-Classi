@@ -1,0 +1,42 @@
+
+DruidBarKey = {
+	["bgcolor"] = {
+		0, -- [1]
+		0, -- [2]
+		0, -- [3]
+		0.5, -- [4]
+	},
+	["color"] = {
+		0, -- [1]
+		0, -- [2]
+		1, -- [3]
+		1, -- [4]
+	},
+	["DontShiftBack"] = false,
+	["Minimap"] = false,
+	["currentmana"] = 1849,
+	["Lock"] = true,
+	["Replace"] = false,
+	["HideInCaster"] = true,
+	["Enabled"] = true,
+	["tempW"] = 170,
+	["tempH"] = 18,
+	["bordercolor"] = {
+		1, -- [1]
+		1, -- [2]
+		1, -- [3]
+		1, -- [4]
+	},
+	["extra"] = 0,
+	["maxmana"] = 1849,
+	["bordertexture"] = "Interface\\Tooltips\\UI-StatusBar-Border",
+	["width"] = 125.000106811523,
+	["subtractmana"] = 0,
+	["Player"] = true,
+	["Custom"] = false,
+	["Graphics"] = true,
+	["height"] = 18.0000305175781,
+	["minimapPos"] = 226.301767683909,
+	["bgstrata"] = "BORDER",
+	["manatexture"] = "Interface\\TargetingFrame\\UI-StatusBar",
+}

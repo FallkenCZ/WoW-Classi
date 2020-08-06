@@ -1,0 +1,20 @@
+VER 3 0000000001000003 "pet" "INV_MISC_QUESTIONMARK"
+#showtooltip Corruption
+/petattack
+/cast Corruption
+END
+VER 3 0000000001000001 "pet" "INV_MISC_QUESTIONMARK"
+#showtooltip Immolate
+/petattack
+/cast Immolate
+END
+VER 3 0000000001000004 "pet" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/cast Curse of Agony
+END
+VER 3 0000000001000002 "pet" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Bolt
+/petattack
+/cast Shadow bolt
+END

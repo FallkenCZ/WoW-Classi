@@ -1,0 +1,15 @@
+VER 3 0000000001000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Bolt
+/petattack
+/cast Shadow bolt
+END
+VER 3 0000000001000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Corruption
+/petattack
+/cast Corruption
+END
+VER 3 0000000001000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Immolate
+/petattack
+/cast Immolate
+END

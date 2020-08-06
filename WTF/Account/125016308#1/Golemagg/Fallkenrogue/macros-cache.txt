@@ -1,0 +1,4 @@
+VER 3 0000000001000001 " " "INV_MISC_QUESTIONMARK"
+/starattack
+/cast Sinister Strike
+END

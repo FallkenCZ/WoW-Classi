@@ -1,0 +1,2310 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1590363729,
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 3,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:28:25]|h|r You have been disconnected from Blizzard services.",
+					["b"] = 0,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 422926.958,
+					["serverTime"] = 1596486492,
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "0 days, 0 hours, 53 minutes, 9 seconds",
+					["timestamp"] = 422926.958,
+				}, -- [2]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 422926.958,
+				}, -- [3]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 69,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:52:55]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491575,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424821.648,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:09]|h|r Your skill in Defense has increased to 70.",
+					["serverTime"] = 1596491589,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424835.903,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:24]|h|r Your skill in Skinning has increased to 55.",
+					["serverTime"] = 1596491604,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424850.521,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:25]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491605,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424851.234,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:42]|h|r Your skill in Skinning has increased to 56.",
+					["serverTime"] = 1596491622,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424868.304,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:43]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491623,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424869.097,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:54]|h|r You receive loot: |cff9d9d9d|Hitem:4867::::::::15:::::::|h[Broken Scorpid Leg]|h|r.",
+					["serverTime"] = 1596491634,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424880.057,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:57]|h|r Your skill in Skinning has increased to 57.",
+					["serverTime"] = 1596491637,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424883.333,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:58]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491638,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424884.061,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:53:58]|h|r [Y] |cffd8d8d8[|r|Hplayer:Valdyh:716:YELL|h|cfffff468Valdyh|r|h|cffd8d8d8]|r: ENGA YA FRAN",
+					["serverTime"] = 1596491638,
+					["r"] = 1,
+					["extraData"] = {
+						7, -- [1]
+						false, -- [2]
+						17, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424884.828,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:54:15]|h|r Your skill in Skinning has increased to 58.",
+					["serverTime"] = 1596491655,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424901.967,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:54:16]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491656,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424902.744,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:54:34]|h|r Your skill in Skinning has increased to 59.",
+					["serverTime"] = 1596491674,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424920.197,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:54:34]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491674,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424920.959,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:54:49]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491689,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424935.555,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:54:53]|h|r Your skill in Skinning has increased to 60.",
+					["serverTime"] = 1596491693,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424939.252,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:54:53]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491693,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424939.983,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:12]|h|r Your skill in Skinning has increased to 61.",
+					["serverTime"] = 1596491712,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424958.305,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:13]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491713,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424959.042,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:35]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491735,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424981.654,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:35]|h|r You receive loot: |cff9d9d9d|Hitem:3171::::::::15:::::::|h[Broken Boar Tusk]|h|r.",
+					["serverTime"] = 1596491735,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424981.654,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:38]|h|r Your skill in Skinning has increased to 62.",
+					["serverTime"] = 1596491738,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424984.986,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:39]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491739,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424985.753,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:57]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491757,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425003.17,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:55:57]|h|r You receive loot: |cff9d9d9d|Hitem:771::::::::15:::::::|h[Chipped Boar Tusk]|h|r.",
+					["serverTime"] = 1596491757,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425003.608,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:00]|h|r Your skill in Skinning has increased to 63.",
+					["serverTime"] = 1596491760,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425006.845,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:01]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491761,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425007.567,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:15]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491775,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425021.376,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:15]|h|r You receive loot: |cff9d9d9d|Hitem:771::::::::15:::::::|h[Chipped Boar Tusk]|h|r.",
+					["serverTime"] = 1596491775,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425021.738,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:19]|h|r Your skill in Skinning has increased to 64.",
+					["serverTime"] = 1596491779,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425025.073,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:19]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491779,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425025.784,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:39]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491799,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425045.293,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:53]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491813,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425059.399,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:56]|h|r Your skill in Skinning has increased to 65.",
+					["serverTime"] = 1596491816,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425062.724,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:56:57]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491817,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425063.499,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:10]|h|r You receive loot: |cff9d9d9d|Hitem:4872::::::::15:::::::|h[Dry Scorpid Eye]|h|r.",
+					["serverTime"] = 1596491830,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425076.815,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:14]|h|r Your skill in Skinning has increased to 66.",
+					["serverTime"] = 1596491834,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425080.151,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:14]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491834,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425080.938,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:27]|h|r You receive loot: |cff9d9d9d|Hitem:3171::::::::15:::::::|h[Broken Boar Tusk]|h|r.",
+					["serverTime"] = 1596491847,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425093.838,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:31]|h|r Your skill in Skinning has increased to 67.",
+					["serverTime"] = 1596491851,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425097.18,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:31]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491851,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425097.905,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:43]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491863,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425109.295,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:46]|h|r Your skill in Skinning has increased to 68.",
+					["serverTime"] = 1596491866,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425112.581,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:57:47]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491867,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425113.316,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:07]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491887,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425133.201,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:07]|h|r You receive loot: |cff9d9d9d|Hitem:3171::::::::15:::::::|h[Broken Boar Tusk]|h|r.",
+					["serverTime"] = 1596491887,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425133.604,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:10]|h|r Your skill in Skinning has increased to 69.",
+					["serverTime"] = 1596491890,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425136.934,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:11]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491891,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425137.69,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:22]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491902,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425148.188,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:25]|h|r Your skill in Skinning has increased to 70.",
+					["serverTime"] = 1596491905,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425151.533,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:26]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491906,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425152.252,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:37]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491917,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425163.647,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:40]|h|r Your skill in Skinning has increased to 71.",
+					["serverTime"] = 1596491920,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425166.957,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:58:41]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491921,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425167.723,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:59:26]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491966,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425212.737,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:59:27]|h|r You receive loot: |cff9d9d9d|Hitem:771::::::::15:::::::|h[Chipped Boar Tusk]|h|r.",
+					["serverTime"] = 1596491967,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425213.13,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:59:31]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491971,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425217.207,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:59:52]|h|r Your skill in Staves has increased to 73.",
+					["serverTime"] = 1596491992,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425238.778,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:59:54]|h|r You receive loot: |cff9d9d9d|Hitem:4877::::::::15:::::::|h[Stone Arrowhead]|h|r.",
+					["serverTime"] = 1596491994,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425240.743,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:59:58]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491998,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425244.771,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:11]|h|r Your skill in Skinning has increased to 72.",
+					["serverTime"] = 1596492011,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425257.84,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:12]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596492012,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425258.553,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:28]|h|r You receive loot: |cff9d9d9d|Hitem:3171::::::::15:::::::|h[Broken Boar Tusk]|h|r.",
+					["serverTime"] = 1596492028,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425274.79,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:32]|h|r Your skill in Skinning has increased to 73.",
+					["serverTime"] = 1596492032,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425278.12,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:32]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596492032,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425278.875,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:49]|h|r You receive loot: |cff9d9d9d|Hitem:4877::::::::15:::::::|h[Stone Arrowhead]|h|r.",
+					["serverTime"] = 1596492049,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425295.085,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:52]|h|r Your skill in Skinning has increased to 74.",
+					["serverTime"] = 1596492052,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425298.406,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:53]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596492053,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425299.165,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:00:53]|h|r Your group has been disbanded.",
+					["serverTime"] = 1596492053,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425299.668,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:46:59]|h|r You receive loot: |cff9d9d9d|Hitem:771::::::::15:::::::|h[Chipped Boar Tusk]|h|r.",
+					["serverTime"] = 1596491219,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424465.289,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:02]|h|r Your skill in Skinning has increased to 39.",
+					["serverTime"] = 1596491222,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424468.979,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:03]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491223,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424469.794,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:23]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491243,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424490.011,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:24]|h|r You receive loot: |cffffffff|Hitem:828::::::::15:::::::|h[Small Blue Pouch]|h|r.",
+					["serverTime"] = 1596491244,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424490.408,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:27]|h|r Your skill in Skinning has increased to 40.",
+					["serverTime"] = 1596491247,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424493.738,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:28]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491248,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424494.455,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:44]|h|r |HlootHistory:1|h[Loot]|h: |cff1eff00|Hitem:4562::::::1182:1046756608:15:::::::|h[Severing Axe of the Bear]|h|r",
+					["serverTime"] = 1596491264,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424510.777,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:49]|h|r |HlootHistory:1|h[Loot]|h: You have selected Need for: |cff1eff00|Hitem:4562::::::1182:1046756608:15:::::::|h[Severing Axe of the Bear]|h|r",
+					["serverTime"] = 1596491269,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424515.632,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:49]|h|r |HlootHistory:1|h[Loot]|h: Need Roll - 17 for |cff1eff00|Hitem:4562::::::1182:1046756608:15:::::::|h[Severing Axe of the Bear]|h|r by Fallkensham",
+					["serverTime"] = 1596491269,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424515.632,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:49]|h|r |HlootHistory:1|h[Loot]|h: You won: |cff1eff00|Hitem:4562::::::1182:1046756608:15:::::::|h[Severing Axe of the Bear]|h|r",
+					["serverTime"] = 1596491269,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424515.632,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:50]|h|r You receive loot: |cff1eff00|Hitem:4562::::::1182:1046756608:15:::::::|h[Severing Axe of the Bear]|h|r.",
+					["serverTime"] = 1596491270,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424516.39,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:53]|h|r Your skill in Skinning has increased to 41.",
+					["serverTime"] = 1596491273,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424519.687,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:47:54]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491274,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424520.405,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:05]|h|r |Hchannel:PARTY|h[PL] |h|cffd8d8d8[|r|Hplayer:Fallkensham-Golemagg:659:PARTY|h|cffd8d83f15|r:|cff0070ddFallkensham|r|h|cffd8d8d8]|r: |cff1eff00|Hitem:4562::::::1182:1046756608:15:::::::|h[Severing Axe of the Bear]|h|r",
+					["serverTime"] = 1596491285,
+					["r"] = 0.462745130062103,
+					["extraData"] = {
+						50, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424531.289,
+					["g"] = 0.784313797950745,
+					["b"] = 1,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:16]|h|r |HlootHistory:2|h[Loot]|h: |cff1eff00|Hitem:14090::::::839:1651249792:15:::::::|h[Beaded Britches of the Eagle]|h|r",
+					["serverTime"] = 1596491296,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424542.185,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:17]|h|r You receive loot: |cffffffff|Hitem:5466::::::::15:::::::|h[Scorpid Stinger]|h|r.",
+					["serverTime"] = 1596491297,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424543.097,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:18]|h|r |HlootHistory:2|h[Loot]|h: You have selected Need for: |cff1eff00|Hitem:14090::::::839:1651249792:15:::::::|h[Beaded Britches of the Eagle]|h|r",
+					["serverTime"] = 1596491298,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424544.818,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:18]|h|r |HlootHistory:2|h[Loot]|h: Need Roll - 75 for |cff1eff00|Hitem:14090::::::839:1651249792:15:::::::|h[Beaded Britches of the Eagle]|h|r by Fallkensham",
+					["serverTime"] = 1596491298,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424544.818,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:18]|h|r |HlootHistory:2|h[Loot]|h: You won: |cff1eff00|Hitem:14090::::::839:1651249792:15:::::::|h[Beaded Britches of the Eagle]|h|r",
+					["serverTime"] = 1596491298,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424544.818,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:19]|h|r You receive loot: |cff1eff00|Hitem:14090::::::839:1651249792:15:::::::|h[Beaded Britches of the Eagle]|h|r.",
+					["serverTime"] = 1596491299,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424545.565,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:22]|h|r Your skill in Skinning has increased to 42.",
+					["serverTime"] = 1596491302,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424548.863,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:23]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491303,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424549.684,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:49]|h|r You receive loot: |cff9d9d9d|Hitem:4877::::::::15:::::::|h[Stone Arrowhead]|h|r.",
+					["serverTime"] = 1596491329,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424575.643,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:52]|h|r Your skill in Skinning has increased to 43.",
+					["serverTime"] = 1596491332,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424578.885,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:48:53]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491333,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424579.611,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:07]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491347,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424593.034,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:10]|h|r Your skill in Skinning has increased to 44.",
+					["serverTime"] = 1596491350,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424596.241,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:11]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491351,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424597.036,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:29]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km175|k:141:676:BN_INLINE_TOAST_ALERT:0|h[|Km175|k]|h has gone offline.",
+					["serverTime"] = 1596491369,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						11, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424615.181,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:31]|h|r Your skill in Skinning has increased to 45.",
+					["serverTime"] = 1596491371,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424617.393,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:32]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491372,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424618.182,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:33]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km175|k:141:679:BN_INLINE_TOAST_ALERT:0|h[|Km175|k] (|TInterface\\ChatFrame\\UI-ChatIcon-Battlenet:14:14:0:0|tafm)|h has come online.",
+					["serverTime"] = 1596491373,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						11, -- [3]
+						13, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424619.262,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:41]|h|r You receive loot: |cff9d9d9d|Hitem:4877::::::::15:::::::|h[Stone Arrowhead]|h|r.",
+					["serverTime"] = 1596491381,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424627.872,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:45]|h|r Your skill in Skinning has increased to 46.",
+					["serverTime"] = 1596491385,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424631.11,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:49:45]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491385,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424632.005,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:09]|h|r You receive loot: |cffffffff|Hitem:5466::::::::15:::::::|h[Scorpid Stinger]|h|r.",
+					["serverTime"] = 1596491409,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424655.464,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:14]|h|r Your skill in Skinning has increased to 47.",
+					["serverTime"] = 1596491414,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424660.412,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:15]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491415,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424661.149,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:30]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491430,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424676.164,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:33]|h|r Your skill in Skinning has increased to 48.",
+					["serverTime"] = 1596491433,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424679.484,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:34]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491434,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424680.242,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:40]|h|r |TInterface\\FriendsFrame\\UI-Toast-ToastIcons.tga:16:16:0:0:128:64:2:29:34:61|t|HBNplayer:|Km132|k:168:689:BN_INLINE_TOAST_ALERT:0|h[|Km132|k]|h has gone offline.",
+					["serverTime"] = 1596491440,
+					["r"] = 0.509803950786591,
+					["extraData"] = {
+						54, -- [1]
+						false, -- [2]
+						11, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424687.013,
+					["g"] = 0.772549092769623,
+					["b"] = 1,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:47]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491447,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424693.578,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:50]|h|r Your skill in Skinning has increased to 49.",
+					["serverTime"] = 1596491450,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424696.934,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:50:51]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491451,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424697.701,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:18]|h|r Your skill in Skinning has increased to 50.",
+					["serverTime"] = 1596491478,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424724.507,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:19]|h|r You receive loot: |cffffffff|Hitem:2934::::::::15:::::::|h[Ruined Leather Scraps]|h|r.",
+					["serverTime"] = 1596491479,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424725.232,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:31]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491491,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424737.784,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:35]|h|r Your skill in Skinning has increased to 51.",
+					["serverTime"] = 1596491495,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424741.274,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:36]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491496,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424742.277,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:48]|h|r You receive loot: |cff9d9d9d|Hitem:4872::::::::15:::::::|h[Dry Scorpid Eye]|h|r.",
+					["serverTime"] = 1596491508,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424754.816,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:52]|h|r Your skill in Skinning has increased to 52.",
+					["serverTime"] = 1596491512,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424758.133,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:51:52]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491512,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424758.859,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:52:14]|h|r You receive loot: |cffffffff|Hitem:769::::::::15:::::::|h[Chunk of Boar Meat]|h|r.",
+					["serverTime"] = 1596491534,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424780.729,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:52:18]|h|r Your skill in Skinning has increased to 53.",
+					["serverTime"] = 1596491538,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424784.072,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:52:18]|h|r You receive loot: |cffffffff|Hitem:2318::::::::15:::::::|h[Light Leather]|h|r.",
+					["serverTime"] = 1596491538,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424784.802,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:52:36]|h|r You receive loot: |cff9d9d9d|Hitem:4877::::::::15:::::::|h[Stone Arrowhead]|h|r.",
+					["serverTime"] = 1596491556,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						9, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424802.208,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:52:54]|h|r Your skill in Skinning has increased to 54.",
+					["serverTime"] = 1596491574,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424820.931,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

@@ -1,0 +1,2143 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1590430924,
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 64,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:39]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593737,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526992.702,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:42]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593740,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526996.003,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:46]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593744,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526999.237,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:49]|h|r Your skill in Mining has increased to 63.",
+					["serverTime"] = 1596593747,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527002.017,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:49]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593747,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527002.017,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:52]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593750,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527005.299,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:55]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593753,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527008.524,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:58]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593756,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527011.354,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:01]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593759,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527014.589,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:04]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593762,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527017.408,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:04]|h|r Your skill in Mining has increased to 64.",
+					["serverTime"] = 1596593762,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527017.841,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:07]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593765,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527020.635,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:10]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593768,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527023.862,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:14]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593772,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527027.156,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:17]|h|r Your skill in Mining has increased to 65.",
+					["serverTime"] = 1596593775,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527030.392,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:17]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593775,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527030.392,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:20]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593778,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527033.225,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:23]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593781,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527036.474,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:26]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593784,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527039.709,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:29]|h|r Your skill in Mining has increased to 66.",
+					["serverTime"] = 1596593787,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527042.453,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:29]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593787,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527042.453,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:32]|h|r Your skill in Mining has increased to 67.",
+					["serverTime"] = 1596593790,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527045.731,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:32]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593790,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527045.731,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:35]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593793,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527049,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:39]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593797,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527052.243,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:42]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593800,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527055.08,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:45]|h|r Your skill in Mining has increased to 68.",
+					["serverTime"] = 1596593803,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527058.33,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:45]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593803,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527058.33,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:48]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593806,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527061.58,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:51]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593809,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527064.422,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:54]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593812,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527067.668,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:16:57]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593815,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527070.467,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:00]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593818,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527073.732,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:03]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593821,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527076.982,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:07]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593825,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527080.228,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:10]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593828,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527083.048,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:13]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593831,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527086.323,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:16]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593834,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527089.54,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:19]|h|r Your skill in Mining has increased to 69.",
+					["serverTime"] = 1596593837,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527092.278,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:19]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593837,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527092.278,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:22]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593840,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527095.6,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:25]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593843,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527098.854,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:28]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593846,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527101.602,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:31]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593849,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527104.941,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:35]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593853,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527108.188,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:37]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593855,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527110.941,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:41]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593859,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527114.254,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:44]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593862,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527117.501,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:47]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593865,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527120.251,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:50]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593868,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527123.579,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:53]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593871,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527126.838,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:56]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593874,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527129.675,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:17:59]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593877,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527132.909,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:03]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593881,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527136.171,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:05]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593883,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527138.943,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:09]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593887,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527142.263,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:12]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593890,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527145.042,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:15]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593893,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527148.298,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:18]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593896,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527151.573,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:21]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593899,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527154.823,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:24]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593902,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527157.654,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:18:56]|h|r Sold junk for 1 Silver, 79 Copper.",
+					["r"] = 1,
+					["serverTime"] = 1596593934,
+					["timestamp"] = 527189.063,
+					["g"] = 0.85,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:19:00]|h|r You have learned how to create a new item: Smelt Bronze.",
+					["serverTime"] = 1596593938,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527193.382,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:19:00]|h|r You have learned how to create a new item: Smelt Tin.",
+					["serverTime"] = 1596593938,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						10, -- [3]
+						11, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 527193.546,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:29]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593547,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526802.648,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:32]|h|r Your skill in Mining has increased to 48.",
+					["serverTime"] = 1596593550,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526805.89,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:32]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593550,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526805.89,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:35]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593553,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526808.705,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:36]|h|r |Hchannel:channel:7|h[7] |h|cffd8d8d8[|r|Hplayer:Wharkok:511:CHANNEL:7|h|cffc69b6dWharkok|r|h|cffd8d8d8]|r: Someone popping ony/wcb l1?",
+					["serverTime"] = 1596593554,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						false, -- [2]
+						1, -- [3]
+						77, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526809.069,
+					["g"] = 0.752941250801086,
+					["b"] = 0.752941250801086,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:38]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593556,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526811.931,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:42]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593560,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526815.185,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:44]|h|r Your skill in Mining has increased to 49.",
+					["serverTime"] = 1596593562,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526818.002,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:45]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593563,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526818.002,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:48]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593566,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526821.242,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:50]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593568,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526824.011,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:54]|h|r Your skill in Mining has increased to 50.",
+					["serverTime"] = 1596593572,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526827.219,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:54]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593572,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526827.219,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:12:57]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593575,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526830.534,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:00]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593578,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526833.383,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:03]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593581,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526836.615,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:06]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593584,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526839.829,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:10]|h|r Your skill in Mining has increased to 51.",
+					["serverTime"] = 1596593588,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526843.057,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:10]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593588,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526843.057,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:12]|h|r Your skill in Mining has increased to 52.",
+					["serverTime"] = 1596593590,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526845.912,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:12]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593590,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526845.912,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:16]|h|r Your skill in Mining has increased to 53.",
+					["serverTime"] = 1596593594,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526849.14,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:16]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593594,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526849.14,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:19]|h|r Your skill in Mining has increased to 54.",
+					["serverTime"] = 1596593597,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526852.371,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:19]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593597,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526852.371,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:23]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593601,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526856.202,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:26]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593604,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526859.191,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:26]|h|r Your skill in Mining has increased to 55.",
+					["serverTime"] = 1596593604,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526859.646,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:29]|h|r Your skill in Mining has increased to 56.",
+					["serverTime"] = 1596593607,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526862.422,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:29]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593607,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526862.422,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:32]|h|r Your skill in Mining has increased to 57.",
+					["serverTime"] = 1596593610,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526865.699,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:32]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593610,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526865.699,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:35]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593613,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526868.488,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:38]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593616,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526871.769,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:41]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593619,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526874.984,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:45]|h|r Your skill in Mining has increased to 58.",
+					["serverTime"] = 1596593623,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526878.214,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:13:45]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593623,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526878.214,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:19]|h|r |Hchannel:channel:7|h[7] |h|cffd8d8d8[|r|Hplayer:Prcathordu-Golemagg:566:CHANNEL:7|h|cffaad372Prcathordu|r|h|cffd8d8d8]|r: LFM BUSM mara",
+					["serverTime"] = 1596593657,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						false, -- [2]
+						1, -- [3]
+						79, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526912.247,
+					["g"] = 0.752941250801086,
+					["b"] = 0.752941250801086,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:34]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593672,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526927.609,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:37]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593675,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526930.84,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:40]|h|r Your skill in Mining has increased to 59.",
+					["serverTime"] = 1596593678,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526933.56,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:40]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593678,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526933.616,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:43]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593681,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526936.883,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:47]|h|r Your skill in Mining has increased to 60.",
+					["serverTime"] = 1596593685,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526940.11,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:47]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593685,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526940.11,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:49]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593687,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526942.888,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:53]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593691,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526946.215,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:56]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593694,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526949.438,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:14:59]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593697,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526952.185,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:02]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593700,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526955.526,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:05]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593703,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526958.747,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:08]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593706,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526961.51,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:08]|h|r Your skill in Mining has increased to 61.",
+					["serverTime"] = 1596593706,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526961.988,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:11]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593709,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526964.82,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:15]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593713,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526968.064,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:17]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593715,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526970.831,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:21]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593719,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526974.158,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:24]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593722,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526977.401,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:27]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593725,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526980.134,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:30]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593728,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526983.461,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:33]|h|r Your skill in Mining has increased to 62.",
+					["serverTime"] = 1596593731,
+					["r"] = 0.333333343267441,
+					["extraData"] = {
+						27, -- [1]
+						false, -- [2]
+						14, -- [3]
+						15, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526986.703,
+					["g"] = 0.333333343267441,
+					["b"] = 1,
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:33]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593731,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526986.703,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [126]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:36]|h|r You create: |cffffffff|Hitem:2840::::::::21:::::::|h[Copper Bar]|h|r.",
+					["serverTime"] = 1596593734,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						36, -- [3]
+						37, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526989.495,
+					["g"] = 0.666666686534882,
+					["b"] = 0,
+				}, -- [127]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[04:15:37]|h|r |Hchannel:channel:7|h[7] |h|cffd8d8d8[|r|Hplayer:Ivarhuesado:613:CHANNEL:7|h|cfffff468Ivarhuesado|r|h|cffd8d8d8]|r: me no",
+					["serverTime"] = 1596593735,
+					["r"] = 1,
+					["extraData"] = {
+						73, -- [1]
+						false, -- [2]
+						1, -- [3]
+						81, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 526990.351,
+					["g"] = 0.752941250801086,
+					["b"] = 0.752941250801086,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

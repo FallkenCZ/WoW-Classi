@@ -1,0 +1,10 @@
+## Interface: 11305
+## Title: Titan Panel Classic [|cffeda55fVolume|r] |cff00aa001.2.4.11305|r
+## Notes: Adds a volume control icon on your Titan Bar
+## Author: Titan Panel Development Team (http://www.titanpanel.org)
+## SavedVariables: 
+## OptionalDeps: 
+## Dependencies: TitanClassic
+## Version: 1.2.4.11305
+## X-Child-Of: TitanClassic
+TitanClassicVolume.xml

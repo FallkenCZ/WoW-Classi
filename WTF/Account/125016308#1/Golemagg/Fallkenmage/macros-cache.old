@@ -1,0 +1,37 @@
+VER 3 0000000001000007 " SC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Cold Snap
+END
+VER 3 0000000001000001 " SC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Counterspell
+END
+VER 3 0000000001000002 " SC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Ice Block
+/cast Frostbolt
+END
+VER 3 0000000001000003 " SC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/dismount
+/cast Ice Block
+END
+VER 3 0000000001000004 " SC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Frost Nova
+END
+VER 3 0000000001000005 " SC" "INV_MISC_QUESTIONMARK"
+#showtooltip Arcane Power
+/stopcasting
+/use 13
+/cast Arcane Power
+END
+VER 3 0000000001000006 " SC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Presence of Mind
+END

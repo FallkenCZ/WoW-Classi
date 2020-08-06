@@ -1,0 +1,114 @@
+
+DecursiveDB = {
+	["global"] = {
+		["LastVersionAnnounce"] = 1590371445,
+	},
+	["class"] = {
+		["HUNTER"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+		["WARRIOR"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+		["WARLOCK"] = {
+			["CureOrder"] = {
+				-12, -- [1]
+				-16, -- [2]
+				nil, -- [3]
+				-13, -- [4]
+				[8] = -14,
+				[16] = -15,
+				[32] = 1,
+			},
+		},
+		["ROGUE"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+		["MAGE"] = {
+			["CureOrder"] = {
+				-13, -- [1]
+				-16, -- [2]
+				nil, -- [3]
+				1, -- [4]
+				[8] = -14,
+				[16] = -15,
+				[32] = 2,
+			},
+		},
+		["DRUID"] = {
+			["CureOrder"] = {
+				-13, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				1, -- [4]
+				[8] = 2,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+		["SHAMAN"] = {
+			["CureOrder"] = {
+				-12, -- [1]
+				1, -- [2]
+				nil, -- [3]
+				-13, -- [4]
+				[8] = -14,
+				[16] = -15,
+				[32] = -16,
+			},
+		},
+		["PRIEST"] = {
+			["CureOrder"] = {
+				-11, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Fallkenrogue - Golemagg"] = "Default",
+		["Fallkenwarr - Golemagg"] = "Default",
+		["Fallken - Golemagg"] = "Default",
+		["Fallkenhunt - Golemagg"] = "Default",
+		["Fallkenmage - Golemagg"] = "Default",
+		["Fallkenlock - Golemagg"] = "Default",
+		["Fallkenpray - Golemagg"] = "Default",
+		["Fallkensham - Golemagg"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["DebuffsFrameContainer_y"] = 494.933343822337,
+			["MainBarX"] = 682.666681134258,
+			["MainBarY"] = -96.0000020345051,
+			["DebuffsFrameContainer_x"] = 1024.00002170139,
+		},
+	},
+}

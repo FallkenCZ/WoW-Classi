@@ -1,0 +1,15 @@
+Version: 1
+Frame: AtlasLoot_GUI-Frame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 920
+H: 600
+Frame: PawnUIFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -41
+Y: -11
+W: 800
+H: 525

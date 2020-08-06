@@ -1,0 +1,9 @@
+## Interface: 11304
+## Title: TwitchEmotes
+## Author: Ren
+## Version: v2
+## SavedVariables: Emoticons_Settings
+UIDropDownMenuTemplates.xml
+UIDropDownMenu.lua
+TwitchEmotes.lua
+TwitchEmotes.xml

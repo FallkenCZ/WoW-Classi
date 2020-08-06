@@ -1,0 +1,2 @@
+
+TitanClassicLootTypeSaved = nil

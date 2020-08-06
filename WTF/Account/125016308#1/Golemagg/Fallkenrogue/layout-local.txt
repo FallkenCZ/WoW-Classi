@@ -1,0 +1,8 @@
+Version: 1
+Frame: AuctionFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 2
+Y: 27
+W: 832
+H: 447
